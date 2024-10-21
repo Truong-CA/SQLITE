@@ -52,7 +52,7 @@ def insert_data(_date, open_price, highest_price, lowest_price, closing_price,ch
 # Khởi tạo Webdriver
 
 # Đường dẫn đến file thực thi geckodriver
-gecko_path = r"C:/Users/Loc/Desktop/SQL_Lite/project5/geckodriver.exe"
+gecko_path = r"C:/Users/Loc/Desktop/SQLITE/project5/geckodriver.exe"
 
 # Khởi tởi đối tượng dịch vụ với đường geckodriver
 ser = Service(gecko_path)
